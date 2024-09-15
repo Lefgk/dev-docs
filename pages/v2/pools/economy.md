@@ -226,7 +226,7 @@ So, in this case, the treasury was used to cover some losses and behave like an 
 
 Linear interest rate model, similar to which Aave uses: [https://docs.aave.com/risk/asset-risk/methodology](https://docs.aave.com/risk/asset-risk/methodology). In the next version, we are going to use a specially designed curve - see the [note](https://colab.research.google.com/drive/1bjBWHNGHiSDd27_WsINQLXa3ImhTrt-W).
 
-LinearInterestRateModel implements [IInterestRateModel.sol](https://github.com/Gearbox-protocol/gearbox-v2/blob/master/contracts/interfaces/IInterestRateModel.sol).
+LinearInterestRateModel implements [IInterestRateModel.sol](https://github.com/Gearbox-protocol/core-v2/blob/main/contracts/interfaces/IInterestRateModel.sol).
 
 ## Configuration
 
